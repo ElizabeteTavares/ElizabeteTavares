@@ -1,7 +1,7 @@
  ### Hi there 👋
 <p>My name is Elizabete Tavares.</p>
 
-- :computer: | <strong>I'm Frontend developer </strong>
+- :computer: | <strong>I'm Backtend developer </strong>
 - 🌱 I’m currently learning hard JavaScript and React
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/elizabete-tavares-)
 
