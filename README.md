@@ -2,7 +2,7 @@
 <p>My name is Elizabete Tavares.</p>
 
 - :computer: | <strong>I'm Backtend developer </strong>
-- 🌱 I’m currently learning hard JavaScript and React
+- 🌱 I’m currently learning hard Java
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/elizabete-tavares-)
 
 ### <p align="left"><strong> Skills Technologies:</strong><p> 
