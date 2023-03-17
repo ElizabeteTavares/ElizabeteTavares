@@ -3,7 +3,7 @@
 
 - :computer: | <strong>I'm Backtend developer </strong>
 - 🌱 I’m currently learning hard Java
-- 📫 How to reach me: [([www.linkedin.com/in/elizabete-tavares-])]
+- 📫 How to reach me:www.linkedin.com/in/elizabete-tavares-
 
 ### <p align="left"><strong> Skills Technologies:</strong><p> 
 <div style="display: inline_block"> 
