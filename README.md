@@ -25,5 +25,3 @@
 </div>
 
 <hr>
-  
-### <p align="left"><strong>Where find me:</strong><p> 
