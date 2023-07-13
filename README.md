@@ -13,8 +13,7 @@
   <img align="center" alt="ET-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="ET-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="ET-React" height="50" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
-    <img align="center" alt="ET-Node" height="50" width="60" src="https://image.flaticon.com/icons/png/512/919/919825.png">
-    <img align="center" alt="ET-Github" height="50" width="50" src="https://image.flaticon.com/icons/png/128/270/270798.png">
+    
 </div>
 <hr>
 
