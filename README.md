@@ -27,12 +27,3 @@
 <hr>
   
 ### <p align="left"><strong>Where find me:</strong><p> 
-
-<div> 
-  <a href="www.linkedin.com/in/elizabete-tavares-" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
-  </a>  
-</div>
-
-  
-
